@@ -6,7 +6,7 @@ function Footer() {
           © {new Date().getFullYear()} Copyright Text
           <a
             className="grey-text text-lighten-4 right"
-            href="https://github.com/Le-Ga/"
+            href="https://github.com/Le-Ga/react-spa"
             target="_blank"
             rel="noreferrer"
           >
